@@ -1,0 +1,15 @@
+{
+  "name": "esbuild-esm-loader-issue",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@esbuild-kit/esm-loader": "^2.1.0"
+  }
+}
